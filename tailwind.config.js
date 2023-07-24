@@ -9,11 +9,11 @@ export default {
         'Righteous': ["Righteous", "cursive"],
       },
       backgroundImage: {
-        "deer": "url('./src/assets/images/deer.jpg')",
-        "winter_sunset": "url('./src/assets/images/winter_sunset.jpg')",
-        "over_the_sky": "url('./src/assets/images/over_the_sky.jpg')",
-        "waterfall": "url('./src/assets/images/waterfall.jpg')",
-        "parachute": "url('./src/assets/images/parachute.jpg')",
+        "deer": "url('assets/images/deer.jpg')",
+        "winter_sunset": "url('assets/images/winter_sunset.jpg')",
+        "over_the_sky": "url('assets/images/over_the_sky.jpg')",
+        "waterfall": "url('assets/images/waterfall.jpg')",
+        "parachute": "url('assets/images/parachute.jpg')",
       }
     },
   },
