@@ -10,7 +10,7 @@ function WinterSunset() {
                         <p className="text-xs font-semibold tracking-[.45rem] opacity-90 uppercase">A Winter Photo from Pixabay</p>
                     </div>
                     <p className="text-xs font-semibold opacity-95">Made in 2023</p>
-                    <div className="relative z-20 inline-grid w-20 h-20 text-4xl transition-all duration-300 rounded-full bg-white/60 place-items-center after:content after:w-full after:h-full after:absolute after:bg-white after:rounded-full hover:after:bg-white/100 after:z-10 bg-rose-300">
+                    <div className="inline-grid w-20 h-20 text-5xl transition-all duration-500 ease-out outline-[.65rem] rounded-full bg-white/60 place-items-center outline outline-white/25 hover:outline-white/100 cursor-pointer">
                         <BiPlay />
                     </div>
                 </div>                

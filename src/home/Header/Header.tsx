@@ -23,7 +23,7 @@ function Header() {
         },
     ]
     return (
-        <header className="flex items-center justify-between w-full px-6 py-10">
+        <header className="flex items-center justify-between w-full px-6 py-10 fixed z-[3000] text-white">
             <div className="flex items-center flex-1 gap-5 text-3xl">
                 <BiMenuAltLeft />
                 <div className="font-Lobster">holutahyour</div>
