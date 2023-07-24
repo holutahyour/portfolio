@@ -3,7 +3,7 @@ import { BiPlay } from "react-icons/bi"
 function WinterSunset() {
     return (
         <section className="relative h-screen text-white bg-center bg-cover snap-start bg-winter_sunset">
-            <div className="absolute w-full h-full bg-black/30">
+            <div className="absolute w-full h-full bg-black/40">
                 <div className="absolute space-y-10 text-center -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2">
                     <div className="space-y-6">
                         <h1 className="text-7xl font-Righteous">Winter Sunset</h1>
